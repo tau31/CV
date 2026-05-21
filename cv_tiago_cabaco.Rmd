@@ -55,17 +55,17 @@ Tools {#skills}
 
 - English (Fluent)
 - Portuguese (Native)
-- German (A2, planning to take B1 exam in January 2025)
+- German (A2, B1 exam scheduled for 29/04/2025)
 
 Main 
 ================================================================================
 
 Tiago Cabaço {#title}
 --------------------------------------------------------------------------------
-I am a Psychologist, with Data Science and Software Development experience, 
+<!-- I am a Psychologist, with Data Science and Software Development experience, 
 looking to start my career in IT.
 
-Currently, I am searching for entry-level IT support roles. 
+Currently, I am searching for entry-level IT support roles.  -->
 
 <!-- ### About me -->
 <!-- I hold a Master degree in Psychology and I am a Data Scientist that uses tools like R, SQL, Python and Bash. -->
@@ -89,20 +89,16 @@ Certifications {data-icon=computer}
 
 Remote 
 
-Expected on 22/11/2024
+Issued on 04/12/2024
 
 - Learning essential IT skills required for supporting and troubleshooting:
-   - Hardware;
+    - Hardware;
     - Software;
     - Mobile devices;
     - Networking;
-    - Operating Systems;
+    - Operating Systems (Windows, Apple and Linux);
     - Virtualization and Cloud Computing;
     - Security.
-
-- Requires completion of two exams:
-    - Core 1: completed on 06/08/2024
-    - Core 2: scheduled for 22/11/2024
 
 Experience {data-icon=briefcase}
 --------------------------------------------------------------------------------
@@ -116,7 +112,6 @@ Berlin, DE
 October 2023 - August 2022
 
 - Developed software to perform statistical analysis of survey data from millions of users using R, Python, SQL and Bash.
-<!-- - Performed and presented analytical reports, using product and user behavior data, to stakeholders.  -->
 - Coordinated the performance monitoring of our software products, including reporting and addressing troubleshooting requests
 from other teams. 
 - Configured and troubleshooted other team's systems (Linux and MacOS) to use our software products.
@@ -124,6 +119,7 @@ from other teams.
 - Trained new team members by using documentation, learning sessions, joint code reviews and 
 pair-programming.
 
+<!-- - Performed and presented analytical reports, using product and user behavior data, to stakeholders.  -->
 
 <!-- - Developed R statistical libraries used daily to transform millions of user's survey responses 
 into statistically representative results, used on all the company's costumer-facing products. 
@@ -161,16 +157,16 @@ which directly improved the quality of our poll results.
 - Contributed to the development of bash command line tool used to configure the R environment in production, resulting 
 in efficient and safe workflow for new releases to production.    -->
 
-### Doctoral Research Fellow
+### Research Fellow 
 
-Humboldt-University 
+Department of Psychological Methods - Humboldt-University 
 
 Berlin, DE
 
 2020 - 2016
 
 <!-- - Grant by the International Max Planck Research School on the Life Course. -->
-- Developed Bash scripts to use of high performance computing clusters and threading in order to improve computations speed and scale. 
+- Developed Bash scripts to make use of high performance computing clusters and threading in order to improve computations speed and scale. 
 <!-- - Use of high performance computing clusters and threading in order to provide scalable modeling solutions. -->
 <!-- - Applied hierarchical Bayesian regression and mixture modeling techniques, using the Stan probabilistic programming language, to account for different aspects of how the data was structured and generated. -->
 <!-- - Applied hierarchical Bayesian regression and mixture modeling techniques, using the Stan probabilistic programming language. -->
@@ -258,7 +254,7 @@ Lisbon, Portugal
 
 Education {data-icon=graduation-cap}
 --------------------------------------------------------------------------------
-
+<!-- 
 ### PhD in Computational Psychology
 
 Humboldt-University
@@ -268,7 +264,7 @@ Berlin
 2022 - 2016
 
 - Grant by the International Max Planck Research School on the Life Course.
-- [Incomplete - did not graduate.]{.underline}
+- [Incomplete - did not graduate.]{.underline} -->
 
 <!-- ### Erasmus Intensive Program in Mathematical Psychology
 
